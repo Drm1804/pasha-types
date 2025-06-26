@@ -4,4 +4,5 @@ export const PATH = {
   chats: "/chats/",
   forParse: "/for-parse/",
   meta: "/user-meta/",
+  clients: "/clients/",
 };
