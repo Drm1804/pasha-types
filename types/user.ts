@@ -3,3 +3,10 @@ export type ParticipantDbItem = {
   part: string[];
   react: string[];
 };
+
+export type UserMeta = {
+  firstName?: string[];
+  lastName?: string[];
+  username?: string[];
+  phone?: string[];
+};
